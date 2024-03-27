@@ -1,7 +1,28 @@
-Name of the Student:
-Learning Track:
-Project Name:
-Trailhead Profile:
-Developer Org Username:
-Developer Org Password:
-Position: Team Lead
+Name of the Student: REVURU CHENCHU BABI
+Learning Track: DEVELOPER
+Project Name: JOB APPLICARTION TRACKING SYSTEM (DEVELOPER)
+Trailhead Profile: https://www.salesforce.com/trailblazer/chenchubabirevuru
+Developer Org Username: babi@gdcproject.com
+Developer Org Password: Cyclopes@2024
+Position: Team Lead 
+Name of the Student: THUMMUTHUKKA SIVA PRASAD
+Learning Track: DEVELOPER
+Project Name: JOB APPLICARTION TRACKING SYSTEM (DEVELOPER)
+Trailhead Profile: https://www.salesforce.com/trailblazer/sivaprasadthummuthukka9848
+Developer Org Username: Shiva@gdcproject.com
+Developer Org Password: Cyclopes@2024
+Position: Team member
+Name of the Student: BATHALA DHANANJAYA
+Learning Track: DEVELOPER
+Project Name: JOB APPLICARTION TRACKING SYSTEM (DEVELOPER)
+Trailhead Profile: https://www.salesforce.com/trailblazer/bathaladhananjaya
+Developer Org Username: dhananjayabathala@gdctirupati.com
+Developer Org Password: Gayatri@1234
+Position: Team member
+Name of the Student: POOLASETTY SOMASEKHAR
+Learning Track: DEVELOPER
+Project Name: JOB APPLICARTION TRACKING SYSTEM (DEVELOPER)
+Trailhead Profile: https://www.salesforce.com/trailblazer/somasekharpoolasetty
+Developer Org Username: somu@gdcproject.com
+Developer Org Password: Cyclopes@2024
+Position: Team member
